@@ -18,7 +18,7 @@ programa {
     leia(pres)
     valmensal=mensal*0.30
      vapres=empres/pres
-    se((mensal*10)<=empres e vapres<=valmensal){
+    se((mensal*10)>=empres e vapres<=valmensal){
      
       c= 1 
     }senao{
