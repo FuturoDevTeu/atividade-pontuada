@@ -26,7 +26,7 @@ programa {
         resultado=n1/n2
       pare
       caso contrario :
-      escreva("Digite uma operação valida")
+      escreva("Digite uma operaÃ§Ã£o valida")
       
     }
     escreva (n1,opcao,n2,"=",resultado)
