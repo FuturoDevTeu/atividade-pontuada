@@ -20,7 +20,7 @@ programa {
         preco = litros*3.79
         se(litros<=25){
           desconto = preco * 0.02
-          preco =preco -  * desconto)
+          preco =preco -  desconto
         }senao{
           desconto = preco * 0.04
           preco =preco - desconto } 
